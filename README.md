@@ -8,7 +8,7 @@ In this repo, I store my completed solutions as portfolio.
  
 In Codewars, we solve real code challenges to improve our ranks. Kata ranks are determined based on its subject area and difficulty. Completing these katas advance our ranks.
 
-![alt text]( https://github.com/fuzzymuzzywuzzy/codewars/blob/master/codewars_rank.PNG "codewars rank")
+![alt text](https://github.com/fuzzymuzzywuzzy/codewars/blob/master/codewars_rank.PNG "codewars rank")
 
 # Completed Katas
 
