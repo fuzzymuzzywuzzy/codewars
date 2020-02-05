@@ -12,3 +12,14 @@ In Codewars, we solve real code challenges to improve our ranks. Kata ranks are 
 
 # Completed Katas
 
+[Automorphic number](../blob/master/python/automorphic_number.py)
+[Balanced number](../blob/master/python/balanced_number.py)
+[Count letters and digits](../blob/master/python/count_letters_digits.py)
+[Dark Souls](../blob/master/python/dark_souls.py)
+[Disarium number](../blob/master/python/disarium_number.py)
+[Jumping number](../blob/master/python/jumping_number.py)
+[Maximum product](../blob/master/python/max_product.py)
+[Parity outlier](../blob/master/python/parity_outlier.py)
+[Special number](../blob/master/python/special_number.py)
+[Spin words](../blob/master/python/spin_words.py)
+[Tidy number](../blob/master/python/tidy_number.py)
