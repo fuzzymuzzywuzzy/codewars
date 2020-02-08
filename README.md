@@ -20,6 +20,7 @@ In Codewars, we solve real code challenges to improve our ranks. Kata ranks are 
 * [Jumping number](../master/python/jumping_number.py)
 * [Maximum product](../master/python/max_product.py)
 * [Parity outlier](../master/python/parity_outlier.py)
+* [RGB to hex converter](../master/python/rgb_to_hex.py)
 * [Special number](../master/python/special_number.py)
 * [Spin words](../master/python/spin_words.py)
 * [Tidy number](../master/python/tidy_number.py)
