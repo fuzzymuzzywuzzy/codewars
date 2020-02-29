@@ -1,4 +1,4 @@
----https://www.codewars.com/kata/5ab828bcedbcfc65ea000099
+--https://www.codewars.com/kata/5ab828bcedbcfc65ea000099
 
 SELECT p.pokemon_name, p.str*m.multiplier AS modifiedStrength, m.element 
 FROM pokemon p
