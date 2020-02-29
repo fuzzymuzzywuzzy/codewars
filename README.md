@@ -10,7 +10,7 @@ In Codewars, we solve real code challenges to improve our ranks. Kata ranks are 
 
 ![alt text](https://github.com/fuzzymuzzywuzzy/codewars/blob/master/codewars_rank.PNG "codewars rank")
 
-# Completed Katas
+# Completed Python Katas
 
 * [Automorphic number](../master/python/automorphic_number.py)
 * [Balanced number](../master/python/balanced_number.py)
@@ -24,3 +24,12 @@ In Codewars, we solve real code challenges to improve our ranks. Kata ranks are 
 * [Special number](../master/python/special_number.py)
 * [Spin words](../master/python/spin_words.py)
 * [Tidy number](../master/python/tidy_number.py)
+* [Zombie shootout](../master/python/zombie_shootout.py)
+
+# Completed SQL Katas
+
+* [Conditional count](../master/sql/conditional_count.sql)
+* [Monsters](../master/sql/monsters.sql)
+* [Pokemon damage multiplier](../master/sql/pokemon_damage_multiplier.sql)
+* [Simple view](../master/sql/simple_view.sql)
+* [Tuning function](../master/sql/tuning_function.sql)
