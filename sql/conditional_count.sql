@@ -1,3 +1,5 @@
+--https://www.codewars.com/kata/5816a3ecf54413a113000074
+
 SELECT
 EXTRACT(MONTH FROM payment_date) AS month,
 COUNT(payment_id) AS total_count,
