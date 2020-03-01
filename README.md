@@ -32,4 +32,5 @@ In Codewars, we solve real code challenges to improve our ranks. Kata ranks are 
 * [Monsters](../master/sql/monsters.sql)
 * [Pokemon damage multiplier](../master/sql/pokemon_damage_multiplier.sql)
 * [Simple view](../master/sql/simple_view.sql)
+* [String manipulation](../master/sql/string_manipulation.sql)
 * [Tuning function](../master/sql/tuning_function.sql)
