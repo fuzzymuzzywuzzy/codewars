@@ -3,8 +3,6 @@ Codewars is an educational community for computer programming. The platform prov
 
 In this repo, I store my completed solutions as portfolio.
 
-Update.
-
 # Profile Badge
 ![alt text](https://www.codewars.com/users/fuzzymuzzywuzzy/badges/large "fuzzymuzzywuzzy profile")
 
